@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.sibir007.diagplug.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.sibir007.diagplug.MyBundle
 
 class MyApplicationService {
 
